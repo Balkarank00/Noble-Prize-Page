@@ -15,6 +15,7 @@
 
 .flex {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .align-center {
@@ -31,4 +32,18 @@
 
 .mb4 {
   margin-bottom: 16px;
+}
+
+.mw-60 {
+  max-width: 600px;
+}
+
+.mr4 {
+  margin-right: 16px;
+}
+
+.info {
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
 }
